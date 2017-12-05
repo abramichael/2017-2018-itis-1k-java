@@ -1,0 +1,12 @@
+100
+daler
+12345
+daler@daler.ru
+101
+dima
+parol
+dima@list.ru
+102
+andreyK
+password
+sa@mail.ru
